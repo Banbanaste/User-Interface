@@ -172,11 +172,12 @@ header nav a {
   color: rgb(158, 158, 158);
   text-decoration: none;
   margin-right: 40px;
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.2s;
 }
 
 header nav a:hover {
-  color: rgb(65, 65, 255);
+  color: rgb(0, 255, 115);
+  background-color: #000;
 }
 
 /* landing section styleing */
