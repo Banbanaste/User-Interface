@@ -306,7 +306,6 @@ footer {
   .landing {
     flex-direction: column-reverse;
     justify-content: center;
-    border: solid 1px red;
   }
   .landing span {
     height: 100px;
